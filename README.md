@@ -20,7 +20,7 @@ Some fun facts about animation in the entertainment industry:
 
 **Blender:**
 
-Blender is an open-source software currently in use by approximately 6,172 companies around the world including the majority from the education and tech industries. Facebook, Ubisoft, Walmart, Apple, Nvidia, and Apple are a few companies that use blender.
+Blender is an open-source software currently in use by approximately 6,172 companies around the world including the majority from the education and tech industries. Facebook, Ubisoft, Walmart, Apple, Nvidia, and Apple are a few companies that use Blender.
 
 Here is a comparison between Blender and Autodesk which is a pioneer in the animation industry
 https://comparisons.financesonline.com/autodesk-autocad-vs-blender
