@@ -1,8 +1,10 @@
 # Zippy
 
+**Goal:**
+
 The goal of this project is to identify the feasibility of commercializing open-source animation software Blender or any similar software available in market
 
-Animation software market size:
+**Animation software market size:**
 
 The global animation software industry is US$ 18,255.5 million as of 2021 reports and is expected to grow to US$ 39,395.1 million by 2028 with a CAGR of 11.6%.
 
@@ -12,9 +14,9 @@ Animation software usage ranges in many industries including education, entertai
 
 Some fun facts about animation in the entertainment industry 3D animation and visual effects in Toy Story 3 movie were worth ~US$ 200 million and VFX accounts for 60% of Hollywood movie expenditure
 
-Top open-source animation software:
+**Top open-source animation software:**
 
-Blender:
+**Blender:**
 
 Blender is an open-source software currently in use by approximately 6,172 companies around the world including the majority from the education and tech industries. Facebook, Ubisoft, Walmart, Apple, Nvidia, and Apple are a few companies that use blender.
 
@@ -32,6 +34,4 @@ Tasks:
 6.	Identify one industry in which it is already popular and try to build customer solutions targeting a specific Industry and scale it to other industries
 
 PS. Let's have fun while we create something awesome #Yabbadabbadoo
-![dc205ff08bb2818962c765899620a857](https://user-images.githubusercontent.com/92696174/174000510-27a2edb1-6b9d-42ef-ae56-b90efecb77f4.gif)
-
-![image](https://user-images.githubusercontent.com/92696174/173998690-9e4a5b72-a13e-4626-9480-230ccd2a720e.png)
+<img align="center" width="250" height="250" src="https://user-images.githubusercontent.com/92696174/174000510-27a2edb1-6b9d-42ef-ae56-b90efecb77f4.gif">
