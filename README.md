@@ -28,7 +28,7 @@ https://comparisons.financesonline.com/autodesk-autocad-vs-blender
 Video by Thomas Murphy named “I Used Blender at Marvel and It Changed My Life”
 https://www.youtube.com/watch?v=-xLeFGHn26s&t=62s
 
-Tasks:
+Scope:
 1.	Identify the feasibility of commercializing Blender or any other similar animation software
 3.	Understand the usage of the software, Code, and dependencies
 4.	Research pain points from current users
