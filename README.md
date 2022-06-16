@@ -6,7 +6,7 @@ The goal of this project is to identify the feasibility of commercializing open-
 
 **Animation software market size:**
 
-The global animation software industry is US$ 18,255.5 million as of 2021 reports and is expected to grow to US$ 39,395.1 million by 2028 with a CAGR of 11.6%.
+The global animation software industry is US $18,255.5 and is expected to grow to US $39,395.1 million by 2028 with a CAGR of 11.6%.
 
 There are several factors contributing to the growth of this industry. One of the major drivers of this boom is its extensive use in education and academia due to covid.
 
